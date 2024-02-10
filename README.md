@@ -2,11 +2,10 @@
 
 ## Problem
 
-The project aims to develop a model for detecting and classifying traffic signs in images, facilitating automated recognition and interpretation of traffic signals for enhanced road safety.
+The project aims to develop a model for detecting and classifying traffic signs in images, facilitating automated recognition and interpretation of traffic signals for enhanced road safety. By accurately identifying and understanding traffic signs, the model will contribute to reducing accidents, improving traffic flow, and enhancing overall road safety for both drivers and pedestrians.
 
-<div style="text-align: right;">
-    <img src="https://github.com/sanketpatil51/taffic_sign/blob/main/ts.png" alt="Traffic Sign" width="350"/>
-</div>
+<img align="right" alt="coding" width="400" src="https://github.com/sanketpatil51/taffic_sign/blob/main/ts.png" alt="Traffic Sign">
+
 
 
 ## Objective
@@ -24,7 +23,7 @@ For traffic sign recognition, a Convolutional Neural Network (CNN) architecture 
 
 
 <div style="text-align: right;">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/1*yB1pzPghGCQDox_nS75NJQ.jpeg" alt="Traffic Sign" width="800"/>
+    <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2405844022030808-gr6.jpg" alt="Traffic Sign" width="800"/>
 </div>
 
 
