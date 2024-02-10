@@ -31,9 +31,23 @@ For traffic sign recognition, a Convolutional Neural Network (CNN) architecture 
 ## Accuracy
 
 <div style="text-align: right;">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/1*yB1pzPghGCQDox_nS75NJQ.jpeg" alt="Traffic Sign" width="800"/>
+    <img src="https://github.com/sanketpatil51/taffic_sign/blob/main/maccuracy.png" alt="Traffic Sign" width="500"/>
 </div>
 
+
+## Loss
+
+<div style="text-align: right;">
+    <img src="https://github.com/sanketpatil51/taffic_sign/blob/main/mloss.png" alt="Traffic Sign" width="500"/>
+</div>
+
+
+
+## Requirements
+- Windows 8.1 Pro CPU
+- Anaconda Distribution
+- Python
+- Tensorflow
 
 
 
