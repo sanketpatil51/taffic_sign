@@ -49,7 +49,7 @@ For traffic sign recognition, a Convolutional Neural Network (CNN) architecture 
 - Tensorflow
 
 ## Test
-Jupyter notebook link for testing [clik_here](https://github.com/sanketpatil51/taffic_sign/blob/main/_traffic_sign.ipynb) our model
+Google colab link for testing [clik_here](https://github.com/sanketpatil51/taffic_sign/blob/main/code.ipynb) our model
 
 
 
