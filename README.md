@@ -30,14 +30,14 @@ For traffic sign recognition, a Convolutional Neural Network (CNN) architecture 
 ## Accuracy
 
 <div style="text-align: right;">
-    <img src="https://github.com/sanketpatil51/taffic_sign/blob/main/accuracy.png" alt="Traffic Sign" width="350"/>
+    <img src="https://github.com/sanketpatil51/taffic_sign/blob/main/accuracy.png" alt="Traffic Sign" width="300"/>
 </div>
 
 
 ## Loss
 
 <div style="text-align: right;">
-    <img src="https://github.com/sanketpatil51/taffic_sign/blob/main/loss.png" alt="Traffic Sign" width="350"/>
+    <img src="https://github.com/sanketpatil51/taffic_sign/blob/main/loss.png" alt="Traffic Sign" width="300"/>
 </div>
 
 
