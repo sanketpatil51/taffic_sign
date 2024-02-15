@@ -53,5 +53,11 @@ Google colab link for testing [clik_here](https://github.com/sanketpatil51/taffi
 
 
 
+## limitations
+- It takes a lot of computer power to train and use the model.
+- Limited diversity in classes may lead to difficulty in distinguishing between similar signs.
+
+
+
 
 
