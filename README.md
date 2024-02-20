@@ -12,12 +12,6 @@ The project aims to develop a model for detecting and classifying traffic signs 
 Develop a Convolutional Neural Network (CNN) model for  detecting and classifying traffic signs .
 
 
-## Data
-Dwonload the data from here
-
-
-
-
 ## Recognition method
 For traffic sign recognition, a Convolutional Neural Network (CNN) architecture is employed to recognize traffic signs from images, leveraging convolutional layers for feature extraction and classification, as depicted in the figure below.
 
