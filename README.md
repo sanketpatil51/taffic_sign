@@ -3,7 +3,7 @@
 ## Problem
 
 The project aims to develop a model for detecting and classifying traffic signs in images, facilitating automated recognition and interpretation of traffic signals for enhanced road safety. By accurately identifying and understanding traffic signs, the model will contribute to reducing accidents, improving traffic flow, and enhancing overall road safety for both drivers and pedestrians.
-<img align="right" alt="coding" width="380" src="https://github.com/sanketpatil51/taffic_sign/blob/main/ts.png" alt="Traffic Sign">
+<img align="center" alt="coding" width="400" src="https://github.com/sanketpatil51/taffic_sign/blob/main/ts.png" alt="Traffic Sign">
 
 
 
